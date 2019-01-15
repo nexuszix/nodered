@@ -11,4 +11,7 @@ project does, how to use it and anything else they may need to know.
 =======
 # nodered
 node-red for DXC
+
+dependencies
+npm install node-red-contrib-iconv
 >>>>>>> 54314bf274fb1ba919b31606e0226bcc5e0c539f
